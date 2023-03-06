@@ -69,5 +69,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSV7&layout=compact" alt="Lenguajes más utilizados" />
 </p>
 
+## Github Contributions Graph
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuidoSV7&show_icons=true&theme=dark" alt="Estadísticas de contribuciones" />
+</p>
+
+
+
+
 
 
