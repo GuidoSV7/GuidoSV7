@@ -35,3 +35,12 @@
   <img src="https://img.icons8.com/fluent/80/000000/github.png" alt="GitHub" width="80" height="80"/>
   <img src="https://img.icons8.com/fluency/80/000000/laravel.png" alt="Laravel" width="80" height="80"/>
 </p>
+
+
+#### Streak Stats
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuidoSV7&theme=dark&hide_border=true&fire=DD2727"/>
+  </a>
+</p>
