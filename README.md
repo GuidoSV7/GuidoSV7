@@ -14,7 +14,7 @@
 </div>
 
 ## Sobre mí
-- Soy estudiante de Ingeniería en sistemas.
+- Soy estudiante de Ingeniería en Sistemas.
 - Soy Fullstack developer.
 - Me encanta programar en Python, JS y PHP.
 
