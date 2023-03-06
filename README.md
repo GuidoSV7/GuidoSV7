@@ -62,3 +62,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuidoSV7&theme=dark&hide_border=true&fire=DD2727"/>
   </a>
 </p>
+
+### Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSV7&layout=compact)
