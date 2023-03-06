@@ -30,7 +30,7 @@
   <img src="https://img.icons8.com/color/60/000000/html-5--v1.png" alt="HTML5" width="60" height="60"/>
   <img src="https://img.icons8.com/color/60/000000/css3.png" alt="CSS3" width="60" height="60"/>
   <img src="https://img.icons8.com/color/60/000000/bootstrap.png" alt="Bootstrap" width="60" height="60"/>
-  <img src="https://img.icons8.com/color/60/000000/tailwind-css.png" alt="Tailwind" width="60" height="60"/>
+  <img src="https://cdn.icon-icons.com/icons2/2699/PNG/512/tailwindcss_logo_icon_167923.png" alt="Tailwind" width="60" height="60"/>
   <img src="https://img.icons8.com/color/60/000000/git.png" alt="Git" width="60" height="60"/>
   <img src="https://img.icons8.com/fluent/60/000000/github.png" alt="GitHub" width="60" height="60"/>
   <img src="https://img.icons8.com/fluency/60/000000/laravel.png" alt="Laravel" width="60" height="60"/>
