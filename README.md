@@ -3,7 +3,7 @@
 # Algunos proyectos que realicé 👋
 
 <div align="center">
-  <div style="display: flex; justify-content: center; align-items: center;">
+
     <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
       <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" title="FlashCard con Word y Scraping Web" width="200" height="200" />
     </a>
@@ -12,7 +12,7 @@
       <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" title="Proyecto SO1" width="200" height="200" />
     </a>
 
-  </div>
+
 </div>
 
 ## Sobre mí
