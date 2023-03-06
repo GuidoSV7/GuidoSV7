@@ -2,7 +2,7 @@
 
 # Algunos proyectos que realicé 👋
 
-<div align="center">
+<div align="center" style="display: flex;">
   <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
     <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" title="FlashCard con Word y Scraping Web" width="200" height="200" />
     <p>FlashCard con Word y Scraping Web</p>
