@@ -65,8 +65,9 @@
 
 ### Most Used Languages
 
-<div  align="center">
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSV7&layout=compact)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSV7&layout=compact" alt="Lenguajes más utilizados" />
+</p>
+
 
 
