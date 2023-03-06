@@ -1,6 +1,6 @@
 # ¡Hola! Soy Guido Salazar 👋
 
-# Algunos proyectos que realicé 👋
+## Algunos proyectos que realicé 👋
 
 <div align="center">
   <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
@@ -55,7 +55,7 @@
 </p>
 
 
-#### Streak Stats
+## Streak Stats
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
@@ -63,7 +63,7 @@
   </a>
 </p>
 
-### Most Used Languages
+## Most Used Languages
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSV7&layout=compact" alt="Lenguajes más utilizados" />
