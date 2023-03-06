@@ -11,7 +11,7 @@
     
     <a href="https://github.com/GuidoSV7/PROYECTOSO1">
       <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" title="Proyecto SO1" width="200" height="200" />
-      <p style="margin: 0 20px;">Proyecto SO1</p>
+      
     </a>
     
   </div>
