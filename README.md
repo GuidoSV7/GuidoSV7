@@ -19,7 +19,7 @@
 - Me encanta programar en Python, JS y PHP.
 
 ## Educación
-- Ingeniería en Sistemas, [Universidad Autónoma Gabriel René Moreno (UAGRM)](https://www.uagrm.edu.bo/)
+- Ingeniería en Sistemas (7mo semestre) , [Universidad Autónoma Gabriel René Moreno (UAGRM)](https://www.uagrm.edu.bo/)
 - Programa Especializado - Python for Everybody, [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KECKJNL7XLUB)
 - Fundamentos de Bitcoin, Blockchain y Criptomonedas, [Platzi](https://platzi.com/p/guido-salazar-vargas/ruta/8297-fundamentos-blockchain/diploma/detalle/)
 
