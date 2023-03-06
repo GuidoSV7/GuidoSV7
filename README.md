@@ -3,7 +3,7 @@
 # Algunos proyectos que realicé 👋
 
 <div align="center">
-  <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" width="200" height="200" style="margin-right: 60px" />
+  <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" width="200" height="200" style="margin-right: 60px" /> (https://www.linkedin.com/in/guidosalazar/)
   <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" width="200" height="200" style="margin-left: 60px" />
 </div>
 
