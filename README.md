@@ -18,9 +18,27 @@
 - Soy Fullstack developer.
 - Me encanta programar en Python, JS y PHP.
 
+## Educación
+- Ingeniería en Sistemas, [Universidad Autónoma Gabriel René Moreno (UAGRM)](https://www.uagrm.edu.bo/)
+- Programa Especializado - Python for Everybody, [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KECKJNL7XLUB)
+- Fundamentos de Bitcoin, Blockchain y Criptomonedas, [Platzi](https://platzi.com/p/guido-salazar-vargas/ruta/8297-fundamentos-blockchain/diploma/detalle/)
+
 ## Contacto
 - LinkedIn: [Guido Salazar](https://www.linkedin.com/in/guidosalazar/)
 - Correo electrónico: Guido.salazar.vargas7@gmail.com
+
+## Skills
+
+- Python
+- JavaScript
+- PHP
+- HTML5
+- CSS3
+- Bootstrap
+- Tailwind CSS
+- Git
+- GitHub
+- Laravel
 
 ## Lenguajes y herramientas
 <p align="center">
