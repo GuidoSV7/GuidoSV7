@@ -3,18 +3,12 @@
 # Algunos proyectos que realicé 👋
 
 <div align="center">
-  <figure>
-    <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
-      <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" width="200" height="200" />
-    </a>
-    <figcaption>Proyecto 1: FlashCard con Word y Scraping Web</figcaption>
-  </figure>
-  <figure>
-    <a href="https://github.com/GuidoSV7/PROYECTOSO1">
-      <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" width="200" height="200" />
-    </a>
-    <figcaption>Proyecto 2: PROYECTOSO1</figcaption>
-  </figure>
+  <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
+    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" title="Proyecto 1" width="200" height="200" />
+  </a>
+  <a href="https://github.com/GuidoSV7/PROYECTOSO1">
+    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" title="Proyecto 2" width="200" height="200" />
+  </a>
 </div>
 
 ## Sobre mí
