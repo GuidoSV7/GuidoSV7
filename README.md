@@ -27,7 +27,7 @@
 - LinkedIn: [Guido Salazar](https://www.linkedin.com/in/guidosalazar/)
 - Facebook: [Guido Salazar Vargas](https://www.facebook.com/guido.salazarvargas.3)
 - Correo electrónico: Guido.salazar.vargas7@gmail.com
-- 
+
 
 ## Skills
 
