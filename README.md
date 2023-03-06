@@ -4,7 +4,7 @@
 # Algunos proyectos que realicé 👋
 
 <div align="center">
-  <img src="enlace_a_tu_imagen_aquí" alt="Foto 1" width="200" />
+  <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" width="200" />
   <img src="enlace_a_tu_imagen_aquí" alt="Foto 2" width="200" />
   <img src="enlace_a_tu_imagen_aquí" alt="Foto 3" width="200" />
 </div>
