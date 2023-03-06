@@ -1,5 +1,8 @@
 # ¡Hola! Soy Guido Salazar 👋
 
+
+# Algunos proyectos que realicé 👋
+
 <div align="center">
   <img src="enlace_a_tu_imagen_aquí" alt="Foto 1" width="200" />
   <img src="enlace_a_tu_imagen_aquí" alt="Foto 2" width="200" />
