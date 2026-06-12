@@ -1,3 +1,63 @@
+# ¡Hola! Soy Guido Salazar 👋
+## Algunos proyectos que realicé 👋
+<div align="center">
+  <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
+    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" title="FlashCard con Word y Scraping Web" width="200" height="200" />
+  </a>
+  <a href="https://github.com/GuidoSV7/PROYECTOSO1">
+    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" title="Proyecto SO1" width="200" height="200" />
+  </a>
+</div>
+
+## Sobre mí
+- Soy estudiante de Ingeniería en Sistemas.
+- Soy Fullstack developer.
+- Me encanta programar en Python, JS, TypeScript y PHP.
+
+## Educación
+- Ingeniería en Sistemas (Ultimo Año) , [Universidad Autónoma Gabriel René Moreno (UAGRM)](https://www.uagrm.edu.bo/)
+- Programa Especializado - Python for Everybody, [Coursera](https://www.coursera.org/account/accomplishments/specialization/certificate/KECKJNL7XLUB)
+- Fundamentos de Bitcoin, Blockchain y Criptomonedas, [Platzi](https://platzi.com/p/guido-salazar-vargas/ruta/8297-fundamentos-blockchain/diploma/detalle/)
+
+## Contacto
+- LinkedIn: [Guido Salazar](https://www.linkedin.com/in/guidosalazar/)
+- Facebook: [Guido Salazar Vargas](https://www.facebook.com/guido.salazarvargas.3)
+- Correo electrónico: Guido.salazar.vargas7@gmail.com
+
+## Skills
+
+### Lenguajes
+- Python
+- JavaScript
+- TypeScript
+- PHP
+- HTML5
+- CSS3
+
+### Frameworks y Librerías
+- Astro
+- Next.js
+- React
+- Node.js
+- Laravel
+- Bootstrap
+- Tailwind CSS
+
+### Blockchain
+- Solana
+
+### Bases de Datos
+- PostgreSQL
+
+### Testing
+- Vitest
+
+### Herramientas y Control de Versiones
+- Git
+- GitHub
+- Cursor IDE
+- Insomnia
+
 ## Lenguajes y herramientas
 
 ### Lenguajes
@@ -34,4 +94,21 @@
   <img src="https://img.icons8.com/fluent/80/000000/github.png" alt="GitHub" width="80" height="80" style="margin: 0 10px;"/>
   <img src="https://www.cursor.com/favicon.ico" alt="Cursor IDE" width="80" height="80" style="margin: 0 10px;"/>
   <img src="https://insomnia.rest/images/icon.svg" alt="Insomnia" width="80" height="80" style="margin: 0 10px;"/>
+</p>
+
+## Streak Stats
+<p align="center">
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuidoSV7&theme=dark&hide_border=true&fire=DD2727"/>
+  </a>
+</p>
+
+## Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuidoSV7&layout=compact" alt="Lenguajes más utilizados" />
+</p>
+
+## Github Contributions Graph
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuidoSV7&show_icons=true&theme=dark" alt="Estadísticas de contribuciones" />
 </p>
