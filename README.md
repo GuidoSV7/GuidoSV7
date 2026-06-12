@@ -1,10 +1,6 @@
 # ¡Hola! Soy Guido Salazar 👋
 ## Algunos proyectos que realicé 🚀
 
-## Algunos proyectos que realicé 🚀
-
-## Algunos proyectos que realicé 🚀
-
 <table align="center" style="border: none;">
   <tr>
     <td width="400" style="border: none;">
