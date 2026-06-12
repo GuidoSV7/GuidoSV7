@@ -1,41 +1,30 @@
 # ¡Hola! Soy Guido Salazar 👋
 ## Algunos proyectos que realicé 🚀
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="400" style="border: none;">
-      <a href="https://github.com/GuidoSV7/TrustPay">
-        <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/TrustPay.PNG" alt="TrustPay" width="400" />
-      </a>
-    </td>
-    <td style="border: none;">
-      <h3><a href="https://github.com/GuidoSV7/TrustPay">TrustPay</a></h3>
-      Pasarela de pagos con cripto para negocios en Latinoamérica. Cobra con Solana y USDC, generá tu QR en minutos y pagá solo el 1% por transacción. Sin burocracia bancaria. Sin excusas.
-    </td>
-  </tr>
-  <tr>
-    <td width="400" style="border: none;">
-      <a href="https://github.com/GuidoSV7/cotizadorEnvios">
-        <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/cotizadorEnvios.webp" alt="Cotizador de Envíos" width="400" />
-      </a>
-    </td>
-    <td style="border: none;">
-      <h3><a href="https://github.com/GuidoSV7/cotizadorEnvios">Cotizador de Envíos</a></h3>
-      Cotizador para mandar encomiendas dentro de la ciudad de Santa Cruz, calculando precios de envío de forma rápida y sencilla.
-    </td>
-  </tr>
-  <tr>
-    <td width="400" style="border: none;">
-      <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
-        <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="FlashCards con Scraping Web" width="400" />
-      </a>
-    </td>
-    <td style="border: none;">
-      <h3><a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">FlashCards con Scraping Web</a></h3>
-      Proyecto de scraping web que genera FlashCards listas en formato Word para estudiar de forma eficiente.
-    </td>
-  </tr>
-</table>
+## Algunos proyectos que realicé 🚀
+
+<div align="center">
+  <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/TrustPay.PNG" alt="TrustPay" width="400" /><br/>
+  <h3><a href="https://github.com/GuidoSV7/TrustPay">TrustPay</a></h3>
+  <p>Pasarela de pagos con cripto para negocios en Latinoamérica. Cobra con Solana y USDC, generá tu QR en minutos y pagá solo el 1% por transacción. Sin burocracia bancaria. Sin excusas.</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/cotizadorEnvios.webp" alt="Cotizador de Envíos" width="400" /><br/>
+  <h3><a href="https://github.com/GuidoSV7/cotizadorEnvios">Cotizador de Envíos</a></h3>
+  <p>Cotizador para mandar encomiendas dentro de la ciudad de Santa Cruz, calculando precios de envío de forma rápida y sencilla.</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="FlashCards con Scraping Web" width="400" /><br/>
+  <h3><a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">FlashCards con Scraping Web</a></h3>
+  <p>Proyecto de scraping web que genera FlashCards listas en formato Word para estudiar de forma eficiente.</p>
+</div>
+
 ## Sobre mí
 - Soy estudiante de Ingeniería en Sistemas.
 - Soy Fullstack developer.
