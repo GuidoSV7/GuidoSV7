@@ -10,7 +10,7 @@
     </td>
     <td style="border: none;">
       <h3><a href="https://github.com/GuidoSV7/TrustPay">TrustPay</a></h3>
-      Pasarela de pagos con cripto para negocios en Latinoamérica. Cobra con Solana y USDC, generá tu QR en minutos y pagá solo el 1% por transacción. Sin burocracia bancaria. Sin excusas.
+      Pasarela de pagos con cripto para negocios en Latinoamérica. Permite cobrar con Solana y USDC generando un QR en minutos, con una comisión de solo 1% por transacción y sin burocracia bancaria. Desarrollado con <b>Next.js</b> y <b>Tailwind CSS</b> en el frontend, <b>NestJS</b> en el backend, y un <b>Smart Contract en Solana</b> para procesar los pagos on-chain (Proyecot en proceso).
     </td>
   </tr>
   <tr>
@@ -21,7 +21,7 @@
     </td>
     <td style="border: none;">
       <h3><a href="https://github.com/GuidoSV7/cotizadorEnvios">Cotizador de Envíos</a></h3>
-      Cotizador para mandar encomiendas dentro de la ciudad de Santa Cruz, calculando precios de envío de forma rápida y sencilla.
+      Aplicación que permite calcular de forma rápida el costo de enviar encomiendas dentro de la ciudad de Santa Cruz, simplificando la cotización para usuarios y negocios de delivery local. Construido con <b>React</b> y <b>Tailwind CSS</b>.
     </td>
   </tr>
   <tr>
@@ -32,7 +32,7 @@
     </td>
     <td style="border: none;">
       <h3><a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">FlashCards con Scraping Web</a></h3>
-      Proyecto de scraping web que genera FlashCards listas en formato Word para estudiar de forma eficiente.
+      Herramienta que automatiza la creación de FlashCards de estudio: extrae contenido desde la web mediante scraping y genera documentos Word listos para usar, optimizando el tiempo de preparación de material académico. Desarrollado en <b>Python</b>.
     </td>
   </tr>
 </table>
