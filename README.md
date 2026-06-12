@@ -1,16 +1,33 @@
 # ¡Hola! Soy Guido Salazar 👋
-## Algunos proyectos que realicé 👋
-<div align="center">
-    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/TrustPay.PNG" alt="Foto 2" title="Proyecto SO1" width="200" height="200" />
-     <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/cotizadorEnvios.webp" alt="Foto 2" title="Proyecto SO1" width="200" height="200" />
+## Algunos proyectos que realicé 🚀
 
-  <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
-    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="Foto 1" title="FlashCard con Word y Scraping Web" width="200" height="200" />
-  </a>
-  <a href="https://github.com/GuidoSV7/PROYECTOSO1">
-    <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%202.png" alt="Foto 2" title="Proyecto SO1" width="200" height="200" />
-  </a>
-</div>
+<table align="center">
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/GuidoSV7/TrustPay">
+        <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/TrustPay.PNG" alt="TrustPay" width="200" height="200" /><br/>
+        <b>TrustPay</b>
+      </a>
+      <p align="left">Pasarela de pagos con cripto para negocios en Latinoamérica. Cobra con Solana y USDC, generá tu QR en minutos y pagá solo el 1% por transacción. Sin burocracia bancaria. Sin excusas.</p>
+    </td>
+    <td align="center" width="220">
+      <a href="https://github.com/GuidoSV7/cotizadorEnvios">
+        <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/cotizadorEnvios.webp" alt="Cotizador de Envíos" width="200" height="200" /><br/>
+        <b>Cotizador de Envíos</b>
+      </a>
+      <p align="left">Cotizador para mandar encomiendas dentro de la ciudad de Santa Cruz, calculando precios de envío de forma rápida y sencilla.</p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="220">
+      <a href="https://github.com/GuidoSV7/FlashCard-con-Word-y-Scraping-Web">
+        <img src="https://github.com/GuidoSV7/GuidoSV7/blob/main/Proyecto%201.PNG" alt="FlashCards con Scraping" width="200" height="200" /><br/>
+        <b>FlashCards con Scraping Web</b>
+      </a>
+      <p align="left">Proyecto de scraping web que genera FlashCards listas en formato Word para estudiar de forma eficiente.</p>
+    </td>
+  </tr>
+</table>
 
 ## Sobre mí
 - Soy estudiante de Ingeniería en Sistemas.
